@@ -1,0 +1,22 @@
+.comp{
+    position: relative;
+    top: -5px;
+    
+}
+.comp .container{
+    position: relative;
+    top: -80px;
+}
+.comp .icon-box{
+    color: rgb(226, 219, 219);
+    font-size: 12px;
+    border-radius: 50%;
+    background-color: rgb(151, 148, 148);
+    transition: 0.5s linear;
+    margin-bottom: 10px;
+    box-shadow: 0px 0px 1.5px 0.1px #7d7c7c;
+}
+.comp .icon-box:hover{
+color: white;
+background-color:lightslategrey;
+}
